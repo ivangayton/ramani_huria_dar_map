@@ -1,0 +1,8 @@
+<osm-script>
+  <union>
+    <bbox-query e="39.284" s="-6.825" w="39.245" n="-6.774"/>
+    <recurse type="up"/>
+    <recurse type="down"/>
+  </union>
+  <print/>
+</osm-script>
